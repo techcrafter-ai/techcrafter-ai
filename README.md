@@ -1,16 +1,39 @@
-## Hi there 👋
+# TechCrafter 🚀
 
-<!--
-**techcrafter-ai/techcrafter-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | .NET & Cloud (AWS/Azure) | React & Angular  
+🎥 Tech Content Creator
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- .NET Core, ASP.NET MVC, Web API
+- C#
+
+### 🌐 Frontend
+- React.js, Angular
+- JavaScript, HTML5, CSS3
+- Tailwind, Bootstrap
+
+### 🗄️ Databases
+- SQL Server, MySQL, MongoDB
+
+### ☁️ Cloud
+- AWS, Azure
+- Microservices, REST APIs
+
+### 📱 Mobile
+- Ionic
+
+---
+
+## 🎥 Content Creator
+
+I share tech content on Instagram 👉 https://instagram.com/techcrafter.ai  
+
+---
+
+## 📍 My Learning Roadmap
+
+👉 https://www.notion.so/Frontend-Developer-Roadmap-3467072f7499809b9e8fe7bdc455a438
